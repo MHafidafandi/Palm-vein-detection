@@ -1,6 +1,6 @@
 # Palm-vein-detection
 
-Repository ini digunakan untuk memnuhi tugas pengelolahan citra digital
+Repository ini digunakan untuk memenuhi tugas pengelolahan citra digital
 
 # Identifikasi Pembuluh Darah Vena pada Telapak Tangan
 
